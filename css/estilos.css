@@ -1,0 +1,52 @@
+#centrado{
+    text-align: center;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    color:white;
+    background-color: rgb(71, 70, 70);
+}
+h2{
+    color:white;
+    background-color:rgb(71, 70, 70);
+}
+#Negrita{
+    font-weight: bolder;
+}
+footer{
+    font-weight: bolder;
+    color: black;
+}
+.cursiva{
+    font-style: oblique;
+}
+header{
+    background-image:url(../img/fondoNegroEncabezado4.jpg);
+}
+#fotoPerfil{
+    width: 100px;
+    height: 146.370;
+    border-radius: 10%;
+}
+footer #tamañoImagen{
+    width: 25px;
+}
+.botonHojaDeVida{
+    text-decoration:none;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 20px;
+    color:white;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:black;
+    border-radius:35px;    
+}
